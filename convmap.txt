@@ -1,0 +1,4 @@
+# mercurial to mercurial.short conversion filemap
+
+exclude "Documentation"
+exclude "DocumentationTools"
